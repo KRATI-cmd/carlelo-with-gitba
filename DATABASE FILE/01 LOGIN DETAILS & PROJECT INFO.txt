@@ -1,0 +1,18 @@
+
+
+
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Customer Login Details**
+
+Username: aman
+Password: aman
+
+
+**Employee Login Details**
+Username: amit
+Password: amit
+
+
